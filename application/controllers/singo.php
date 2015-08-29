@@ -8,6 +8,10 @@ class Singo extends CI_Controller {
 		echo "nyoba push";
 	}
 
+	public function nambah() {
+		echo 'iki tambahanku';
+	}
+
 }
 
 /* End of file singo.php */
